@@ -1,3 +1,9 @@
+## Password Generator
+##    A user-friendly graphical interface allowing users to input the desired password length. 
+##    Includes error handling to ensure the password length is at least 6 characters. 
+##    The application outputs the generated password on the Tkinter window, providing an easy 
+##    and convenient tool for creating strong passwords.
+
 import string
 import tkinter as tk
 import random
