@@ -1,4 +1,7 @@
-# Guessing-Game
+## Guessing-Game
+##    Generates a random number between 1 and 100, tracks user attempts, and provides feedback on whether the guessed number is 
+##    greater or smaller. Utilizes global variables for game state management, including the secret number and the number of attempts.
+
 import random
 import tkinter as tk
 
